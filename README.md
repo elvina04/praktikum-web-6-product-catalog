@@ -4,17 +4,15 @@ Aplikasi Product Catalog berbasis React yang mengambil data dari [Fake Store API
 
 ## Cara Menjalankan
 
-```bash
 # Clone repositori
-git clone https://github.com/USERNAME/product-catalog.git
-cd product-catalog
+git clone https://github.com/elvina04/praktikum-web-6-product-catalog.git
+cd praktikum-web-6-product-catalog
 
 # Install dependencies
 npm install
 
 # Jalankan development server
 npm run dev
-```
 
 Buka http://localhost:5173 di browser.
 
